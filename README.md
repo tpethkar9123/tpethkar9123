@@ -6,7 +6,7 @@
 
 ---
 
-### 🔭 Current Work: uDIAL Platform & Financial UI
+### 🔭 Current Work: Financial UI
 I architect high-availability systems with a focus on **UI/UX Excellence** and **System Resilience**:
 - **Banking-Grade Front-End**: Developing responsive, WCAG-compliant interfaces using **React** and **Angular**.
 - **State Management**: Expert implementation of **Redux** and **Zustand** for complex data flows.
